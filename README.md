@@ -45,3 +45,7 @@ Secure API Gateway with:
 - Distributed Systems
 - Cloud Infrastructure
 - Advanced AI Systems
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Smarta001&theme=tokyonight&no-frame=true&row=1&column=6)
